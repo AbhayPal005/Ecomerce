@@ -1,0 +1,4 @@
+ProductId,ProductName,Price,Stock,Description,ProductIcon,CategoryType
+B00021,Advanced CSS,45,25,Books for learning C++,https://images.pexels.com/photos/7319279/pexels-photo-7319279.jpeg?auto=compress&cs=tinysrgb&w=600,1
+B00022,Basic CSS,35,30,Books for learning C,https://imagelink2,1
+B00023,sddddd,26,29,books for yy,https://m.media-amazon.com/images/I/81onGhenkUL._SL1500_.jpg,1
